@@ -1,5 +1,4 @@
-# site
-for GitHub Pages
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
