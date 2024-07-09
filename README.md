@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +19,6 @@
         .container {
             width: 90%;
             max-width: 800px;
-
             background-color: rgba(0, 176, 80, 0.9); /* Semi-transparent green background */
 		
             padding: 20px;
@@ -81,7 +79,6 @@ transform: rotate(0deg);
     <div class="container">
         <header class="header">
             <div class="header-icon">
-               <img src="headericon.svg" alt="Header Icon">
             </div>
         </header>
         <div class="form-group">
